@@ -13,7 +13,7 @@
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
     <AssemblyName>ECEN_3450-Lab05-Quinn_Peterson</AssemblyName>
-    <Name>ECEN_3450-Lab06-Quinn_Peterson</Name>
+    <Name>ECEN_3450-Lab-06-Quinn_Peterson</Name>
     <RootNamespace>ECEN_3450-Lab05-Quinn_Peterson</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
